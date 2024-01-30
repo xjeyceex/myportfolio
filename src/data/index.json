@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I specialize in meticulous Front-End development, crafting seamless and visually compelling digital experiences with a commitment to staying at the forefront of web technologies."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "In the realm of UI/UX design, I merge creativity with functionality to shape immersive and user-friendly digital environments, bringing a unique blend of artistry and user-centric thinking to every project."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficient in Webflow Development, I seamlessly integrate dynamic and responsive elements into digital interfaces for an enhanced user experience."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Breeze City Weather",
+      "description": "Simplifying your weather check. Get instant windspeed, temperature, and humidity updates for any city. A straightforward and efficient tool for staying informed.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Ping Pong Game",
+      "description": "Experience the classic game with a modern twist, featuring responsive controls and captivating visuals. Challenge friends or test your skills against the computer. Ready for a match? Let the games begin!",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ]
+}
