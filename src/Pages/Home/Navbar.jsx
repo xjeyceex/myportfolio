@@ -45,7 +45,7 @@ function Navbar() {
               to="heroSection"
               className="navbar--content"
             >
-            <img src="./img/jc-icon.png" alt="JC" />
+            <img className="jcicon" src="./img/jc-icon.png" alt="JC" />
             </Link>
         
       </div>

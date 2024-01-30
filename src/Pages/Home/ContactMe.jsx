@@ -24,6 +24,7 @@ export default function ContactUs() {
       <div>
         <h2>Contact Me</h2>
       </div>
+      <div className='contact--input--class'>
       <form ref={form} onSubmit={sendEmail} className='contact--form--container'>
         <div className='wrapper'>
           <div className='input-group'>
@@ -41,6 +42,7 @@ export default function ContactUs() {
         <textarea name="message" rows="8" className="contact--input text-md" placeholder="Type your message..." required></textarea>
         <input type="submit" value="Send" className="btn btn-primary contact--form--btn"/>
       </form>
+      </div>
     </section>
   );
 };

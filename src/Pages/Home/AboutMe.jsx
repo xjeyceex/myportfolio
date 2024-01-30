@@ -21,6 +21,7 @@ export default function AboutMe() {
           <li><img src="./img/js.png" alt="TechStack JavaScript" /> <p>JavaScript</p> </li>
           <li><img src="./img/react.png" alt="TechStack React" /> <p>React</p> </li>
           <li><img src="./img/figma.png" alt="TechStack Figma" /> <p>Figma</p> </li>
+          <li><img src="./img/Git.png" alt="TechStack Git" /> <p>Git</p> </li>
           </ul>
           </div>
         </div>
