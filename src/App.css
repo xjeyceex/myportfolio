@@ -192,6 +192,13 @@ h2 {
   gap: 32px;
   background-color: var(--bg-shade);
 }
+@media screen and (max-width: 768px) {
+  .hero--section {
+    display: flex;
+    flex-direction: column;
+    padding: 70px 20px; /* Adjusted padding for smaller screens */
+  }
+}
 .box {
   position: relative;
   background: var(--bg-shade);
@@ -424,8 +431,6 @@ a.btn-primary{
 }
 
 .ul--tech {
-  margin-top: 1vw;
-  margin-left: 1vw;
   align-items: center;
 }
 
